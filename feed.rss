@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Chanlist | Official Site</title>
+		<link><![CDATA[https://chanlist.github.io]]></link>
+		<description>Chainlist is a list of RPCs for EVM(Ethereum Virtual Machine) networks. Use the information to connect your wallets and Web3 middleware providers to the ...</description>
+		<language>en</language>
+		<pubDate>Fri, 19 May 2023 12:03:06 +0000</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">2951131460</guid>
+			<title>Chainlist | Home</title>
+			<link>https://chanlist.github.io/cryptocurrency-prices.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Chainlist combines the best decentralized cryptocurrency exchanges with Ethereum blockchain technology for business transactions.</description>
+			<pubDate>Fri, 19 May 2023 11:54:17 GMT</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">813340085</guid>
+			<title>Chainlist | Contacts</title>
+			<link>https://chanlist.github.io/contacts.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>Chainlist is a list of RPCs for EVM(Ethereum Virtual Machine) networks. Use the information to connect your wallets and Web3 middleware providers to the ...</description>
+			<pubDate>Fri, 19 May 2023 11:54:17 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
